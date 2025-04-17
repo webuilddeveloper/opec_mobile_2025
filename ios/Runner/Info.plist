@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>สช On Mobile</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>GOOGLELoginAPI</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>line3rdp.$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+				<string>fb702430488541856</string>
+				<string>com.googleusercontent.apps.958400540966-tqlfcoe1fd8v7i4nm5nl4dv03hdl72p7</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FacebookAppID</key>
+	<string>702430488541856</string>
+	<key>FacebookClientToken</key>
+	<string>2c257f1584ebea30242f8b246783beed</string>
+	<key>FacebookDisplayName</key>
+	<string>สช. On Mobile</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-share-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+		<string>lineauth2</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>LineSDKConfig</key>
+	<dict>
+		<key>ChannelID</key>
+		<string>1654861103</string>
+	</dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>สช On Mobile Music Usage</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>สช On Mobile Bluetool Usage</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>สช On Mobile BluetoothPeripheral</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>สช On Mobile Calendar Usage</string>
+	<key>NSCameraUsageDescription</key>
+	<string>เพื่อแสดงรูปภาพโปรไฟล์ของคุณ</string>
+	<key>NSContactsUsageDescription</key>
+	<string>สช On Mobile ต้องการเข้าถึงข้อมูลการติดต่อของคุณ</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>สช On Mobile FaceID Usage</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>เพื่อแสดงตำแหน่งปัจจุบันของคุณ และแนะนำสถานที่น่าสนใจให้กับคุณ</string>
+	<key>NSLocationUsageDescription</key>
+	<string>เพื่อแสดงตำแหน่งปัจจุบันของคุณ และแนะนำสถานที่น่าสนใจให้กับคุณ</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>เพื่อแสดงตำแหน่งปัจจุบันของคุณ และแนะนำสถานที่น่าสนใจให้กับคุณ</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>สช On Mobile Microphone Usage</string>
+	<key>NSMotionUsageDescription</key>
+	<string>สช On Mobile Motion Usage</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>เพื่อแสดงรูปภาพโปรไฟล์ของคุณ</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>เพื่อแสดงรูปภาพโปรไฟล์ของคุณ</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>สช On Mobile Reminder Usage</string>
+	<key>NSSiriUsageDescription</key>
+	<string>สช On Mobile Siri Usage</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>สช On Mobile Speech Recognition Usage</string>
+	<key>NSVideoSubscriberAccountUsageDescription</key>
+	<string>สช On Mobile Video Subscribe Usage</string>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+	<key>kTCCServiceMediaLibrary</key>
+	<string>สช On Mobile MediaLibrary Usage</string>
+</dict>
+</plist>

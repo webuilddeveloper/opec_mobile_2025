@@ -1,0 +1,95 @@
+{
+  "project_info": {
+    "project_number": "958400540966",
+    "firebase_url": "https://opec-d4761.firebaseio.com",
+    "project_id": "opec-d4761",
+    "storage_bucket": "opec-d4761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958400540966:android:2ab576be2b14c1ec32d1e7",
+        "android_client_info": {
+          "package_name": "td.webuild.opec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958400540966-0o0esgll1h5944a0dncpoljn92bam9ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "td.webuild.opec",
+            "certificate_hash": "25bb03f5d0fe667147095ed3a622f5a023f70383"
+          }
+        },
+        {
+          "client_id": "958400540966-2jju3gr3jn7mcln82hpvn4m80hdctt9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "td.webuild.opec",
+            "certificate_hash": "a2f961b3804c039fddf18ac9dc474febbbbf1062"
+          }
+        },
+        {
+          "client_id": "958400540966-5kt8hqikbukui0vgmiodfq6cvcosh9f6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "td.webuild.opec",
+            "certificate_hash": "d087b3ac580acefd270a89bcee8128aee14d2dc4"
+          }
+        },
+        {
+          "client_id": "958400540966-846bjlma052jbbi4cnn75k0rjpfvtjs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "td.webuild.opec",
+            "certificate_hash": "5b00322a88bd810ca02388e59862a55fc6773c6c"
+          }
+        },
+        {
+          "client_id": "958400540966-ei0s790su5h55roltdjnqop1n0qk6mdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "td.webuild.opec",
+            "certificate_hash": "103724c86029b20a4ba2f135b714781f2de097bb"
+          }
+        },
+        {
+          "client_id": "958400540966-joa66a7mt4vlopft2qfi148bkjj55nud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "td.webuild.opec",
+            "certificate_hash": "04dcd9a53beaf7edf69d4bce4e8de5405cf2c53a"
+          }
+        },
+        {
+          "client_id": "958400540966-pobdinrfapkpd6j1gphvbcifvt9o8r6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA40EWhSHnOEzDR0NZyojE0wli8Bg8jL50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958400540966-pobdinrfapkpd6j1gphvbcifvt9o8r6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958400540966-0iq7iiv3d3oggoe24tat5vtket8p7noi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
